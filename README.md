@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/IgorMenezess">
-  <img height="195em" width="495em" src="https://github-readme-stats.vercel.app/api?username=IgorMenezess&show_icons=true&theme=dark&include_all_commits=true&count_private=true&"/>
-  <img height="190em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMenezess&layout=compact&langs_count=7&theme=dark"/>
+  <img height="45em" width="495em" src="https://github-readme-stats.vercel.app/api?username=IgorMenezess&show_icons=true&theme=dark&include_all_commits=true&count_private=true&"/>
+  <img height="50em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMenezess&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
