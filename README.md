@@ -25,6 +25,5 @@
   <a href = "mailto:amokillua@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://steamcommunity.com/profiles/76561199180910813/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
    
-    ![Snake animation](https://[github.com/IgorMenezess/IgorMenezess/blob/output/github-contribution-grid-snake.svg](https://github.com/IgorMenezess/IgorMenezess/blob/main/.github/workflows/snake.yml)
    
 </div>
