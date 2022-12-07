@@ -1,12 +1,12 @@
 ##  Oii eu sou o Igor Menezes, estudante de programação e tecnologia!
 
 - 💻 Estudando full stack
+- 👽 Aprendendo hacking como hoobye
 - 🤖 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/IgorMenezess">
-  <img height="180em"width="495em"src="https://github-readme-stats.vercel.app/api?username=IgorMenezess&show_icons=true&theme=dark&include_all_commits=true&count_private=true&"/>
-  <img height="150em"width="394em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMenezess&layout=compact&langs_count=7&theme=dark"/>
+  <img align="left"height="180em"width="495em"src="https://github-readme-stats.vercel.app/api?username=IgorMenezess&show_icons=true&theme=dark&include_all_commits=true&count_private=true&"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
