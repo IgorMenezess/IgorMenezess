@@ -4,9 +4,10 @@
 - 👽 Aprendendo hacking como hoobye
 - 🤖 Pronouns: ele/dele
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/IgorMenezess">
-  <img align="center"width="600em"src="https://github-readme-stats.vercel.app/api?username=IgorMenezess&show_icons=true&theme=dark&include_all_commits=true&count_private=true&"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorMenezess&show_icons=true&theme=dark&include_all_commits=true&count_private=true&"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMenezess&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
