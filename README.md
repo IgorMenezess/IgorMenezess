@@ -1,4 +1,4 @@
-##  Oii eu sou o Igor Menezes, estudante de programação e tecnologia!
+##  Oii eu sou Igor Menezes, estudante de programação e tecnologia!
 
 - 💻 Estudando full stack
 - 👽 Aprendendo hacking como hoobye
