@@ -1,7 +1,7 @@
 ##  Oii eu sou Igor Menezes, estudante de programação e tecnologia!
 
 - 💻 Estudando full stack
-- 👽 Aprendendo hacking como hoobye
+- 👽 Tenho 17 anos
 - 🤖 Pronouns: ele/dele
 
 <div align="center">
