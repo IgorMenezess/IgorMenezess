@@ -1,4 +1,4 @@
-##  Oii eu sou Igor Menezes, estudante de programação e tecnologia!
+##  Hii, I am Igor Menezes, programing and tecnology student!
 
 <div align="center">
   <a href="https://github.com/IgorMenezess">
